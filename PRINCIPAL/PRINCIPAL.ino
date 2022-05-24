@@ -86,6 +86,8 @@ if(h==24)
  transicao++;
 }
 
+/* Esses "if"s podem ser substituídos por um switch() ao final dos testes*/
+ 
 if(transicao>0)
 {
   dia=dia +1;
